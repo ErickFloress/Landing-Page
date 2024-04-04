@@ -1,4 +1,4 @@
-.intro-content {
+.start-content {
     position: relative;
     top: -2rem;
     display: grid;
@@ -7,15 +7,15 @@
     height: 100vh;
 }
 
-.intro-text-content,
-.intro-img {
+.start-text-content,
+.start-img {
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
 }
 
-.intro-img img,
-.intro-img svg {
+.start-img img,
+.start-img svg {
     max-width: 100%;
     height: auto;
 }

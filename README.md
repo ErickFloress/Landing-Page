@@ -1,3 +1,3 @@
 # Landing-Page
 
-You can acess using this link: https://erickfloress.github.io/Landing-Page/#intro
+Será utilizado esse repositório com fins de aprender automações dentro do GitLab e também praticar o uso do Git.
